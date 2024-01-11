@@ -2,7 +2,7 @@
 // @name         Amazon Vine Recommendation Tracking
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Track seen recommendations on Amazon Vine page with size limit
+// @description  Track seen recommendations on Amazon Vine page
 // @match        https://www.amazon.com/vine/vine-items*
 // @grant        GM_setValue
 // @grant        GM_getValue
